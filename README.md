@@ -4,7 +4,7 @@ A visually stunning, interactive web application that renders a spinning 3D Rubi
 
 Cubic Art is a visually captivating, interactive web application that renders a realistic 3D Rubik's Cube. The application serves as a digital art piece, featuring a beautifully rendered cube that spins gracefully in a minimalist environment. Users can interact with the cube by clicking and dragging to rotate it freely, inspecting it from any angle. The entire experience is built to be performant and mesmerizing, running smoothly on Cloudflare's edge network.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/igallagh/cube)
 
 ## ✨ Key Features
 
@@ -76,7 +76,7 @@ This project is configured for seamless deployment to Cloudflare Pages.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/igallagh/cube)
 
 ## 📂 Project Structure
 
